@@ -4,7 +4,7 @@
 			"name": "Hogwartt Express",
 			"stops": [
 				{
-					"station": "Sycamore",
+					"station": "Syzamore",
 					"status": "ON-TIME",
 					"arrival": "12:00pm",
 					"departure": "12:10pm"
